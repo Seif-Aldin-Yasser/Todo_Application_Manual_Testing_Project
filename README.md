@@ -1,6 +1,6 @@
 ## 💻Todo Application - Manual Testing Project
 
-## 🔗 Live Project Link 
+## 🔗 Live Demo
 <a href="https://todo.qacart.com/">👉 Click Here to View</a>
  
 ## 📁 What’s in the Project
