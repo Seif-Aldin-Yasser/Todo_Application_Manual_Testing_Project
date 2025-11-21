@@ -20,7 +20,7 @@ All documents are in Excel format for easy viewing and editing.
 - ➕ Add new tasks  
 - ✏️ Edit existing tasks  
 - ✅ Mark tasks as complete or incomplete  
-- 🗑️ Delete tasks  
+- 🗑️ Delete tasks
 - ⚠️ Negative scenarios 
 
 ## 🧰 Tools Used
