@@ -17,11 +17,11 @@ All documents are in Excel format for easy viewing and editing.
 
 - 🔐 **User Registration** – Create a new account  
 - 🔐 **User Login** – Access the app with valid credentials  
-- ➕ Add new tasks  
-- ✏️ Edit existing tasks  
-- ✅ Mark tasks as complete or incomplete  
-- 🗑️ Delete tasks
-- ⚠️ Negative scenarios 
+- ➕ **Add new tasks**  
+- ✏️ **Edit existing tasks**  
+- ✅ **Mark tasks as complete or incomplete**  
+- 🗑️ **Delete tasks**
+- ❌ **Negative scenarios**
 
 ## 🧰 Tools Used
 
