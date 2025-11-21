@@ -21,7 +21,7 @@ All documents are in Excel format for easy viewing and editing.
 - ✏️ Edit existing tasks  
 - ✅ Mark tasks as complete or incomplete  
 - 🗑️ Delete tasks  
-- ⚠️ Input validation (e.g., empty fields)
+- ⚠️ Negative scenarios 
 
 ## 🧰 Tools Used
 
