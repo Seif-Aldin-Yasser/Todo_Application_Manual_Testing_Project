@@ -1,4 +1,4 @@
-## 💻Todo Application - Manual Testing Project
+## 💻To-Do Application - Manual Testing Project
 
 ## 🔗 Live Demo
 <a href="https://todo.qacart.com/">👉 Click Here to View</a>
